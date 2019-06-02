@@ -19,7 +19,7 @@ Fruity and sweet. Moderate heat.
 ## Ingredients
 * One large yellow bell pepper, roasted
 * 4 Habanero fruits, roasted
-* 4 spanish peppers (yellow), roasted
+* 4 Dutch peppers (yellow), roasted
 * 1 juiced lime
 * Zest from 1 lime
 * 225g chopped mango
