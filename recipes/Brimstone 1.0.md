@@ -1,7 +1,7 @@
 # Brimstone 1.0
 _Mango Habanero & Garlic with Smoked ginger tea_
 
-:warning: Outdated, please see reviced recipe [Brimstone 2.0](Brimstone 2.0.md)!
+:warning: Outdated, please see reviced recipe [Brimstone 2.0](Brimstone%202.0.md)!
 
 ---
 
