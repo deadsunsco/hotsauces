@@ -1,10 +1,5 @@
 # Brimstone 2.0
-_Mango Habanero & Ghost Chili_
-
-#### Changes from 1.0
-* Removed garlic, and smoked ginger tea.
-* Added more water, sauce becomes creamier.
-* Used less Dutch and Habanero in favor of Ghost Chili.
+_Blackberry Habanero, Ghost Chili & Trinidad Scorpion_
 
 ---
 
@@ -12,22 +7,24 @@ _Mango Habanero & Ghost Chili_
 * Dutch Peppers `2.5k - 5k SHU`
 * Habanero `100k - 300k SHU`
 * Ghost Chili `1 001 304 SHU`
+* Trinidad Scorpion `1 463 700 SHU`
 
 #### Taste Notes
-Fruity and sweet. Moderate heat.
+Prominent blackberry taste, sweet and savoury. Moderate and lingering heat.
 
 ## Ingredients
-* One large yellow bell pepper, roasted
+* One large red bell pepper, roasted
 * 4 Habanero fruits, roasted
-* 4 spanish peppers (yellow), roasted
+* 4 Dutch peppers, roasted
 * 1 juiced lime
 * Zest from 1 lime
-* 225g chopped mango
+* 225g blackberries
 * 1 table spoon agave syrup
 * 0.5 dl apple cider vinegar
-* 0.7 dl water
+* 0.5 dl water
 * 0.5 dl sunflower oil
 * 1 dried Ghost chili
+* 1 dried Trinidad Scorpion chili
 
 ---
 

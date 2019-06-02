@@ -1,7 +1,7 @@
 # Brimstone 1.0
 _Mango Habanero & Garlic with Smoked ginger tea_
 
-:warning: Outdated, please see reviced recipe [Brimstone 2.0](Brimstone%202.0.md)!
+:warning: Outdated, please see revised recipe [Brimstone 2.0](Brimstone%202.0.md)!
 
 ---
 
@@ -25,9 +25,9 @@ Fruity, garlic, acidic. Mild to moderate heat.
 * 2 limes (juiced)
 * 225g chopped mango fruit
 * 1/3 dl agave syrup
-* 0.5 dl of apple vinegar
+* 0.5 dl apple cider vinegar
 * 0.5 dl smoked ginger tea
-* 0.5 dl neutral oil, like sunflower
+* 0.5 dl sunflower oil
 * 1 dried ancho
 * 2 dried chipotles
 
