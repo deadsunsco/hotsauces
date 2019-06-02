@@ -1,4 +1,4 @@
-# Brimstone 2.0
+# Black Blood 1.0
 _Blackberry Habanero, Ghost Chili & Trinidad Scorpion_
 
 ---
